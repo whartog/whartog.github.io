@@ -14,7 +14,7 @@ I am a PhD candidate at Stanford University working with Professor [Lihua Lei](h
 
 Prior to attending Stanford, I earned my A.B. in Mathematics and Statistics Cum Laude with High Honors, with a Secondary in Music, from Harvard University. For my degree, I wrote a review of compressed sensing for my [thesis](/pdfs/hartog_thesis.pdf) with my advisor Subhabrata Sen.
 
-I have a strong passion for teaching, and I have been the primary instructor for two Stanford statistics courses. I will be reprising my role as instructor of Stats 100: Mathematics of Sport this winter quarter, and I am excited to continue to make sports statistics more accessible to the Stanford student body.
+I have a strong passion for teaching, and I have been the primary instructor for two Stanford statistics courses. I will be reprising my role as instructor of Stats 217: Stochastic Processes I this summer quarter, and I am also excited to coach the first year statistics PhD students in their applied statistics qualifying exam preparations this summer.
 
 # Talks and Posters
 
@@ -28,4 +28,4 @@ I have a strong passion for teaching, and I have been the primary instructor for
 
 * **Stats 100: Mathematics of Sport** *(Spring 2023, Winter 2024)* Taught sports statistics class, with topics ranging from linear models to Markov chains. Students completed final projects which are displayed on [this website](https://stats100blog.wordpress.com/).
 
-* **Stats 217: Stochastic Processes I** *(Summer 2023)* Taught stochastic prcesses class, using Dobrow's textbook, covering discrete and continuous Markov chains, branching processes, and Poisson processes.
+* **Stats 217: Stochastic Processes I** *(Summer 2023, Summer 2024)* Taught stochastic prcesses class, using Dobrow's textbook, covering discrete and continuous Markov chains, branching processes, and Poisson processes.
